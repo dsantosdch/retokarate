@@ -1,0 +1,3 @@
+Este archivo solo funciona para que se pueda ejecutar el pipeline CI
+
+Sin este archivo existe un problema con la línea sonar.sources=$(Build.SourcesDirectory)/src/main/java
